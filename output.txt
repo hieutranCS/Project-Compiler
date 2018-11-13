@@ -1,0 +1,12 @@
+2
+6
+5
+7
+
+max
+9
+min
+std
+mean
+done
+min
